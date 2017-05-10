@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: springmvchibernate Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.vignesh.springmvc
+Build-Jdk: 1.7.0_76
+Built-By: vignesh
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://maven.apache.org
+
